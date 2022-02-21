@@ -30,8 +30,8 @@ Any text editor can be used to create a settings file. The **XML Elements** tabl
   
 ```XML
 <SkypeSettings>
-  <AutoScreenShare>1</AutoScreenShare>
-  <HideMeetingName>1</HideMeetingName>
+  <AutoScreenShare>true</AutoScreenShare>
+  <HideMeetingName>true</HideMeetingName>
   <AutoExitMeetingEnabled>true</AutoExitMeetingEnabled>
   <AudioRenderDefaultDeviceVolume>70</AudioRenderDefaultDeviceVolume>
   <AudioRenderCommunicationDeviceVolume>30</AudioRenderCommunicationDeviceVolume>
